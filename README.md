@@ -54,7 +54,7 @@ I’m passionate about turning raw data into meaningful insights, building analy
 - Performed feature importance analysis
 - Applied **ARIMA** for time-series analysis and forecasting
 
-🔗 **[View Project](./sp500-stock-market-analytics)**
+🔗 **[View Project](https://github.com/skskashyap264-netizen/sp500-stock-market-analytics)**
 
 ---
 
@@ -74,7 +74,7 @@ I’m passionate about turning raw data into meaningful insights, building analy
 - RMSE: **13.40**
 - R²: **0.16**
 
-🔗 **[View Project](./student-performance-prediction)**
+🔗 **[View Project](https://github.com/skskashyap264-netizen/student-performance-prediction)**
 
 ---
 
@@ -90,7 +90,7 @@ I’m passionate about turning raw data into meaningful insights, building analy
 - Considered fairness, privacy, transparency, and human oversight
 - Recommended a controlled pilot before full-scale deployment
 
-🔗 **[View Case Study](./shopsphere-customer-churn-case-study)**
+🔗 **[View Case Study](https://github.com/skskashyap264-netizen/shopsphere-customer-churn-case-study)**
 
 ---
 
